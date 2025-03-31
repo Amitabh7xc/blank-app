@@ -1,1 +1,1 @@
- $ streamlit run streamlit_app.py
+ a simple expense and budget tracker app
